@@ -44,6 +44,6 @@ todo.exe      # Windows
 
 ## Author
 
-**Samin Jawad**
-CodeAlpha Internship — C++ Programming
+**Samin Jawad** <br>
+CodeAlpha Internship — C++ Programming <br>
 Student ID: CA/SE3/17330
