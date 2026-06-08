@@ -1,6 +1,6 @@
 # To-Do List Application — C++
 
-A console-based task manager built in C++ as part of the **CodeAlpha C++ Programming Internship** (Task 1).
+A console-based task manager built in C++.
 
 ## Features
 
@@ -44,6 +44,5 @@ todo.exe      # Windows
 
 ## Author
 
-**Samin Jawad** <br>
-CodeAlpha Internship — C++ Programming <br>
-Student ID: CA/SE3/17330
+**Samin Jawad**
+
